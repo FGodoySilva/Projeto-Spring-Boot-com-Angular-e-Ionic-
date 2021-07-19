@@ -2,7 +2,7 @@
 Projeto Spring Boot com Angular e Ionic
 
 
-Esse repositório é resultado do aprendizado de um curso pela Udemy. Projeto em andamento, não finalizado 
+Esse repositório é resultado do aprendizado de um curso pela Udemy. Projeto em andamento, não finalizado , somente BackEnd - Front em desenvolvimento
 
 O projeto que está em desenvolvimento terá construção de login, cadastro de usuário, fluxo completo de navegação de carrinho de compras, fluxo de fechamento de pedido, tela de perfil de usuário com envio de foto tanto pela câmera quanto pela galeria. No momento foram implementadas as classes de serviço, recursos (controller), repository e de domínio, com mapeamento objeto-relacional com JPA e foi criado a API REST com serialização JSON.
 
@@ -148,5 +148,7 @@ Exemplo de Resultado de consulta do endpoint: /pedidos/1
 ![dados_populados](https://user-images.githubusercontent.com/86478813/126151505-1b0ae4bc-736b-49e3-8dd0-9e29b4ad7cbe.png)
 ![diagrama_classes](https://user-images.githubusercontent.com/86478813/126151525-c1d41680-d9ec-4c52-b34a-cba2f8baa782.png)
 ![enumeracoes](https://user-images.githubusercontent.com/86478813/126151539-ab3b8694-a129-48eb-a351-ac301a119e51.png)
+
+Diagrama_Classes 
 
 contato: fabianegodoy@outlook.com
