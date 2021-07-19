@@ -149,3 +149,4 @@ Exemplo de Resultado de consulta do endpoint: /pedidos/1
 ![diagrama_classes](https://user-images.githubusercontent.com/86478813/126151525-c1d41680-d9ec-4c52-b34a-cba2f8baa782.png)
 ![enumeracoes](https://user-images.githubusercontent.com/86478813/126151539-ab3b8694-a129-48eb-a351-ac301a119e51.png)
 
+contato: fabianegodoy@outlook.com
